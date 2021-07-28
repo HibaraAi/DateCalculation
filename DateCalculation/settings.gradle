@@ -1,0 +1,2 @@
+rootProject.name = "日期计算器"
+include ':app'
